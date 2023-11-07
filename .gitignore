@@ -5,3 +5,4 @@ profiles/
 tasks/
 local_storage.json
 profiles.json
+main.py
